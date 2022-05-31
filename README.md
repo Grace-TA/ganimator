@@ -36,6 +36,8 @@ Or you may install the following packages (and their dependencies) manually:
 
 We provide several pretrained models for various characters. Download and extract the pretrained model from [Google Drive](https://drive.google.com/file/d/1jFevozHEuSL2R0MP_ZVBqIAa4jFM0VRh/view?usp=sharing).
 
+<img width="384" alt="image" src="https://user-images.githubusercontent.com/89304181/171113451-8b039e89-d817-4cda-97bd-5f8d4d0fc740.png">
+
 ### Novel motion synthesis
 
 Run `demo.sh`. The result for Salsa and Crab Dace will be saved in `./results/pre-trained/{name}/bvh`. The result after foot contact fix will be saved as `result_fixed.bvh`
