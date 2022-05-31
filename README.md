@@ -9,13 +9,21 @@ This repository provides a library for novel motion synthesis from a single exam
 The library is still under development.
 
 
-## Prerequisites
+## Prerequisites Update by Grace, 2022.05.31
 
-This code has been tested under Ubuntu 20.04. Before starting, please configure your Anaconda environment by
+1. Please visit Anaconda web site and install conda first: https://www.anaconda.com/
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/89304181/171111097-e34a1497-25d3-42d8-b686-ea1469b252b1.png">
+
+
+2. cd ~/ganimator
+3. Run the following code directly. This code has been tested under Ubuntu 20.04. Before starting, please configure your Anaconda environment by
 ~~~bash
 conda env create -f environment.yaml
 conda activate ganimator
 ~~~
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/89304181/171111421-2652dfee-e8c3-482b-a5ce-991a4e543233.png">
+
+
 
 Or you may install the following packages (and their dependencies) manually:
 
