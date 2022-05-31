@@ -42,6 +42,9 @@ We provide several pretrained models for various characters. Download and extrac
 
 Run `demo.sh`. The result for Salsa and Crab Dace will be saved in `./results/pre-trained/{name}/bvh`. The result after foot contact fix will be saved as `result_fixed.bvh`
 
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/89304181/171113923-55475b75-78da-48eb-b69d-6e6b032d9d05.png">
+
+
 ### Applications and Evaluation
 
 Under development.
